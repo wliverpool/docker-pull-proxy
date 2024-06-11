@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-shanghai.aliyuncs.com/wliverpool/alpine:20240606
+ghcr.io/corentinth/it-tools:latest registry.cn-shanghai.aliyuncs.com/wliverpool/ghcr.io/corentinth/it-tools:latest
