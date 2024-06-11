@@ -1,1 +1,1 @@
-ghcr.io/it-tools:latest registry.cn-shanghai.aliyuncs.com/wliverpool/it-tools:latest
+ghcr.io/corentinth/it-tools:latest registry.cn-shanghai.aliyuncs.com/wliverpool/it-tools:latest
