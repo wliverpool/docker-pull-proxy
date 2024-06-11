@@ -1,1 +1,1 @@
-openjdk:8-jdk:latest registry.cn-shanghai.aliyuncs.com/wliverpool/openjdk:8-jdk:latest
+openjdk:8-jdk registry.cn-shanghai.aliyuncs.com/wliverpool/openjdk:8-jdk
