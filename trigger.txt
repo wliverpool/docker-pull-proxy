@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest registry.cn-shanghai.aliyuncs.com/wliverpool/frooodle/s-pdf:latest
+frooodle/s-pdf registry.cn-shanghai.aliyuncs.com/wliverpool/frooodle/s-pdf
