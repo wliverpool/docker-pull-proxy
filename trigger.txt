@@ -1,1 +1,1 @@
-openjdk:8-jdk registry.cn-shanghai.aliyuncs.com/wliverpool/openjdk:8-jdk
+frooodle/s-pdf:latest registry.cn-shanghai.aliyuncs.com/wliverpool/frooodle/s-pdf:latest
