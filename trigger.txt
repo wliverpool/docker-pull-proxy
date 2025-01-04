@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest registry.cn-shanghai.aliyuncs.com/wliverpool/s-pdf:latest
+leonyff/wikitten:latest registry.cn-shanghai.aliyuncs.com/wliverpool/wikitten:latest
