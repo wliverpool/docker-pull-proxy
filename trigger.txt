@@ -1,1 +1,1 @@
-leonyff/wikitten:latest registry.cn-shanghai.aliyuncs.com/wliverpool/wikitten:latest
+iib0011/omni-tools:latest registry.cn-shanghai.aliyuncs.com/wliverpool/omni-tools:latest
