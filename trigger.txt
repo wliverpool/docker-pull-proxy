@@ -1,1 +1,1 @@
-iib0011/omni-tools:latest registry.cn-shanghai.aliyuncs.com/wliverpool/omni-tools:latest
+iib0011/omni-tools:0.4 registry.cn-shanghai.aliyuncs.com/wliverpool/omni-tools:0.4
