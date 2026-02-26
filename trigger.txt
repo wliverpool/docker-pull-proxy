@@ -1,1 +1,1 @@
-iib0011/omni-tools:0.4 registry.cn-shanghai.aliyuncs.com/wliverpool/omni-tools:0.4
+semitechnologies/weaviate:1.19.7 registry.cn-shanghai.aliyuncs.com/wliverpool/weaviate:1.19.7
