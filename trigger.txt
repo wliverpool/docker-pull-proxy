@@ -1,1 +1,1 @@
-mongo:4.0.13-xenial registry.cn-shanghai.aliyuncs.com/wliverpool/mongo:4.0.13-xenial
+elasticsearch:7.6.1 registry.cn-shanghai.aliyuncs.com/wliverpool/elasticsearch:7.6.1
