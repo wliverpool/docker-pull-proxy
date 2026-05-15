@@ -1,1 +1,1 @@
-zilliz/attu:latest registry.cn-shanghai.aliyuncs.com/wliverpool/attu:latest
+milvusdb/milvus:v2.6.8 registry.cn-shanghai.aliyuncs.com/wliverpool/milvus:v2.6.8
