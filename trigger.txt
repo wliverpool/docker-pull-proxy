@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.6.8 registry.cn-shanghai.aliyuncs.com/wliverpool/milvus:v2.6.8
+fullstorydev/grpcurl:latest registry.cn-shanghai.aliyuncs.com/wliverpool/grpcurl:latest
