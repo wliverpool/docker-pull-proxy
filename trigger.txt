@@ -1,1 +1,1 @@
-elasticsearch:7.6.1 registry.cn-shanghai.aliyuncs.com/wliverpool/elasticsearch:7.6.1
+minio/minio:RELEASE.2024-12-18T13-15-44Z registry.cn-shanghai.aliyuncs.com/wliverpool/minio/minio:RELEASE.2024-12-18T13-15-44Z
