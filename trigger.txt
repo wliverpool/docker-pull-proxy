@@ -1,1 +1,1 @@
-fullstorydev/grpcurl:latest registry.cn-shanghai.aliyuncs.com/wliverpool/grpcurl:latest
+qdrant/qdrant:latest registry.cn-shanghai.aliyuncs.com/wliverpool/qdrant:latest
