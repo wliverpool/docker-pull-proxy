@@ -1,1 +1,1 @@
-xprobe/xinference:latest-cpu registry.cn-shanghai.aliyuncs.com/wliverpool/xinference:latest-cpu
+xprobe/xinference:1.17.0-cpu registry.cn-shanghai.aliyuncs.com/wliverpool/xinference:1.17.0-cpu
